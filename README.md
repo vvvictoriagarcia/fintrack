@@ -71,7 +71,8 @@ export default defineConfig([
   },
 ])
 ```
-[Published webpage ]([https://oxc.rs](http://meek-cobbler-0e6052.netlify.app))
+<p><a href="http://meek-cobbler-0e6052.netlify.app">Published webpage →</a></p>
+
 <img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/f72f9e58-aaec-46ea-bc23-476b3b04cf20" />
 <img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/6b7745f6-cda8-43ab-8a36-e32831ca9463" />
 
